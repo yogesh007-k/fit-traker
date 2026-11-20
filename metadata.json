@@ -1,0 +1,6 @@
+{
+  "name": "FITTRACK X ULTRA",
+  "description": "AI-powered personal fitness ecosystem with interactive 3D muscle anatomy, 150+ exercise encyclopedia, smart workout planning, live tracking, nutrition lab, recovery intelligence, and Gemini coaching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
